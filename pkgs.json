@@ -2,6 +2,7 @@
   "test2": {
     "version": "1.0.0",
     "description": "First Testing pkg",
+    "author": "Binyamin Binni",
     "url": "https://github.com/binyaminbinni/My-Pkgs/raw/refs/heads/main/packages/test2/test2.bt"
   },
 }
