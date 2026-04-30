@@ -13,4 +13,13 @@
     "dependencies": [],
     "url": "https://github.com/binyaminbinni/My-Pkgs/raw/refs/heads/main/packages/python/python.bt"
   },
+  "cython": {
+    "name": "cython",
+    "version": "3.2.4",
+    "description": "Python to C translater",
+    "maintainer": "Binyamin Binni <github.com/binyaminbinni",
+    "dependencies": ["python"],
+    "url": "https://github.com/binyaminbinni/My-Pkgs/raw/refs/heads/main/packages/cython/cython.bt"
+
+  },
 }
