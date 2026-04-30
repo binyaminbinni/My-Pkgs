@@ -5,4 +5,12 @@
     "author": "Binyamin Binni",
     "url": "https://github.com/binyaminbinni/My-Pkgs/raw/refs/heads/main/packages/test2/test2.bt"
   },
+  "python": {
+    "name": "python",
+    "version": "3.12.8",
+    "description": "Python 3 programming language intended to enable clear programs",
+    "maintainer": "Binyamin Binni <github.com/binyaminbinni",
+    "dependencies": [],
+    "url": "https://github.com/binyaminbinni/My-Pkgs/raw/refs/heads/main/packages/python/python.bt"
+  },
 }
