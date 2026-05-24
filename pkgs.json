@@ -22,4 +22,12 @@
     "url": "https://github.com/binyaminbinni/My-Pkgs/raw/refs/heads/main/packages/cython/cython.bt"
 
   },
+  "bxi": {
+    "name": "bxi",
+    "version": "1.0.0",
+    "description": "BXI TOOLS",
+    "maintainer": "Binyamin Binni <github.com/binyaminbinni",
+    "dependencies": [],
+    "url": "https://github.com/binyaminbinni/My-Pkgs/raw/refs/heads/main/packages/python/bxi.bt"
+  },
 }
