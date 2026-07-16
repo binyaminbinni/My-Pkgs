@@ -24,7 +24,7 @@
   },
   "bxi": {
     "name": "bxi",
-    "version": "1.3.3",
+    "version": "1.3.4",
     "description": "BXI TOOLS",
     "maintainer": "Binyamin Binni <github.com/binyaminbinni",
     "dependencies": [],
