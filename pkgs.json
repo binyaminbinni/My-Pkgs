@@ -30,4 +30,12 @@
     "dependencies": [],
     "url": "https://github.com/binyaminbinni/My-Pkgs/raw/refs/heads/main/packages/bxi/bxi.bt"
   },
+  "bxi": {
+    "name": "bxi-beta",
+    "version": "1.9.3-beta",
+    "description": "BXI TOOLS",
+    "maintainer": "Binyamin Binni <github.com/binyaminbinni",
+    "dependencies": [],
+    "url": "https://github.com/binyaminbinni/My-Pkgs/raw/refs/heads/main/packages/bxi-beta/bxi-beta.bt"
+  },
 }
