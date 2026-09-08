@@ -25,7 +25,7 @@
   "bxi": {
     "name": "bxi",
     "version": "1.9.3",
-    "description": "BXI TOOLS",
+    "description": "BXI TOOLS ",
     "maintainer": "Binyamin Binni <github.com/binyaminbinni",
     "dependencies": [],
     "url": "https://github.com/binyaminbinni/My-Pkgs/raw/refs/heads/main/packages/bxi/bxi.bt"
