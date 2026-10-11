@@ -24,11 +24,11 @@
   },
   "bxi": {
     "name": "bxi",
-    "version": "2.1.5",
+    "version": "2.1.6",
     "description": "BXI TOOLS ",
     "maintainer": "Binyamin Binni <github.com/binyaminbinni",
     "dependencies": [],
-    "url": "https://github.com/binyaminbinni/My-Pkgs/raw/refs/heads/main/packages/bxi/bxi.bt"
+    "url": "https://github.com/binyaminbinni/My-Pkgs/releases/download/pkgs/bxi.bt"
   },
   "bxi-beta": {
     "name": "bxi-beta",
